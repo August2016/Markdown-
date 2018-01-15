@@ -9,7 +9,7 @@ Mac 版本的markdown工具普遍不是很好用，个人喜欢的macdown对图�
 
 # 如何使用
 由于github文件上传限制，通过以下方式下载
-(http://download.csdn.net/download/lcj_up/10206051)(http://download.csdn.net/download/lcj_up/10206051)
+http://download.csdn.net/download/lcj_up/10206051
 
 下载后直接点击安装即可
 
